@@ -5,6 +5,7 @@ Welcome to **Krakens For A Greener Future**, a project focused on addressing env
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Controls](#controls)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -19,6 +20,19 @@ The goal of this project is to build a platform that encourages sustainability b
 - **Data Integration**: Collect and analyze environmental data.
 - **Community Engagement**: Participate in discussions and campaigns for environmental causes.
 - **Innovative Solutions**: Explore AI-driven approaches to improve environmental sustainability.
+
+## Controls
+This project includes mini-games aligned with the United Nations Sustainable Development Goals (SDGs):
+
+- **SDG 13 (Climate Action)**:
+  - Use the mouse left click to pop the red bubble gases.
+  - Avoid popping the green (O2) bubbles as it will deduct 1 point from your score.
+
+- **SDG 14 (Life Below Water)**:
+  - Use the arrow keys to move the submarine around.
+
+- **SDG 15 (Life on Land)**:
+  - Use the right and left arrow keys to move the dustbin and collect falling waste.
 
 ## Installation
 To install and run the project locally, follow these steps:
@@ -45,6 +59,7 @@ After starting the application, you can:
 - Access the platform through your browser.
 - Explore various tools and resources that help track and improve sustainability metrics.
 - Engage with the community to share ideas and collaborate on environmental projects.
+- Play the educational games to learn more about SDG 13, 14, and 15.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request.
@@ -71,4 +86,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 If you have any questions, feel free to reach out:
 
 - **Author**: Thomas Paul CJ
-- **Email**: thomaspaulcj921@gmail.com
+- **Email**: [Your email here]
