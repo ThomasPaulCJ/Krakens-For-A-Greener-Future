@@ -86,4 +86,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 If you have any questions, feel free to reach out:
 
 - **Author**: Thomas Paul CJ
-- **Email**: [Your email here]
+- **Email**: thomaspaulcj921@gmail.com
+  
