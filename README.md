@@ -1,4 +1,4 @@
-==# Krakens For A Greener Future
+# Krakens For A Greener Future
 
 Welcome to **Krakens For A Greener Future**, a project designed to promote environmental awareness and sustainable practices through interactive mini-games. This project is aligned with the United Nations' Sustainable Development Goals (SDGs), specifically SDG 13 (Climate Action), SDG 14 (Life Below Water), and SDG 15 (Life on Land). Each game reflects real-world environmental challenges and encourages players to take positive action for a greener future.
 
